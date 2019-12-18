@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     Launcher3QuickStep \
     OmniJaws \
+    Phonograph \
     Recorder \
     Stk
 
