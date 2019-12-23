@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     Phonograph \
     Recorder \
-    Stk
+    Stk \
+    WallpaperPicker
 
 # Themes Dark
 PRODUCT_PACKAGES += \
