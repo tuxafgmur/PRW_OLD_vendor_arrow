@@ -96,6 +96,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
    ro.config.notification_sound=Omicron.ogg \
    ro.config.alarm_alert=Onyx.ogg
 
+PRODUCT_PROPERTY_OVERRIDES += \
+   ro.arrow.thumbprint=Dhollmen-Arrow_PI
+
 # Packages
 include vendor/arrow/config/packages.mk
 
